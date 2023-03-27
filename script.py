@@ -1,2 +1,2 @@
-x = 'chuj'.
-wcale nie
+x = 'chuj'
+a = 'nie'
