@@ -1,1 +1,3 @@
-x = 'chuj'.
+x = 'chuj'
+a = 'nie'
+d = 'wcalenie'
