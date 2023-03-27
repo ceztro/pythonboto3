@@ -1,1 +1,2 @@
 x = 'chuj'.
+wcale nie
